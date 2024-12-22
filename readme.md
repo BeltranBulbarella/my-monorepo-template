@@ -1,7 +1,5 @@
 # My Monorepo Template
 
-![Monorepo Banner](https://via.placeholder.com/1200x300?text=My+Monorepo+Template)
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -102,7 +100,7 @@ Follow the steps below to set up and run the monorepo on your local machine.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/my-monorepo.git
+   git clone https://github.com/beltranbulbarella/my-monorepo.git
    cd my-monorepo
    ```
 
